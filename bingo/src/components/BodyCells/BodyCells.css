@@ -1,0 +1,19 @@
+.body-cell {
+  user-select: none;
+  width: 20%;
+  height: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  outline: 1px dotted blueviolet;
+  font-size: 130%;
+}
+
+.body-cell:hover {
+  cursor: grab;
+}
+
+.selected {
+  background-color:#F8F6AA;
+  border: none;
+}

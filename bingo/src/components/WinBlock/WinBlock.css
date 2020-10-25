@@ -1,0 +1,22 @@
+.win {
+  position: absolute;
+  top: 40%;
+  width: 50%;
+  height: 30vh;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  background-color: #F6F036;
+  opacity: 0.5;
+}
+
+.win span {
+  font-size: 10vw;
+}
+
+.win p {
+  position: absolute;
+  bottom: 5px;
+}
